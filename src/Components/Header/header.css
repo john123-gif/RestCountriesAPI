@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding: 0 100px 0 60px;
+    margin: 0;
+    box-shadow: 0 3px 3px 0 hsl(0, 9%, 94%);
+}
+.h3{
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.night_mode_button{
+    display: flex;
+    gap: 7px;
+    align-items: center;
+    width: 110px;
+    font-size: 14px;
+    height: 35px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+.night-mode-div{
+    width: 110px;
+}
+
+@media only screen and (max-width: 375px){
+    .header{
+        width: 100%;
+        padding: 0;
+        justify-content: space-between;
+    }
+    .h3{
+        width: 140px;
+        margin-left: 10px;
+        font-size: 14px;
+    }
+    .night_mode_button{
+        width: 110px;
+        margin-right: 10px;
+    }
+}
