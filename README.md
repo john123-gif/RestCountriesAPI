@@ -106,3 +106,4 @@ export const selectSearchTerm = (state: RootState) => state.search;
 ## Author
 -Github - [@teyejohn](https://www.linkedin.com/in/teyejohn)
 - Frontend Mentor - [@teyejohn](https://www.frontendmentor.io/profile/@teyejohn)
+# Rest-Countries-API-App
