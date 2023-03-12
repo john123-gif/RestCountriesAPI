@@ -23,8 +23,8 @@
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/teyejohn/RestCountriesApp
+- Live Site URL: https://teyejohn.github.io/RestCountriesApp
 
 
 ## My process
@@ -89,7 +89,7 @@ export const selectSearchTerm = (state: RootState) => state.search;
 ### Continued development
 -React
 -Redux (Reduxtoolkit)
--Fetching of data using API 
+-Extensive use of API
 
 
 ### Useful resources
@@ -104,6 +104,7 @@ export const selectSearchTerm = (state: RootState) => state.search;
 
 
 ## Author
--Github - [@teyejohn](https://www.linkedin.com/in/teyejohn)
+-LinkedIn - [teyejohn](https://www.linkedin.com/in/teyejohn)
+-Github - [teyejohn](https://github.com/teyejohn)
 - Frontend Mentor - [@teyejohn](https://www.frontendmentor.io/profile/@teyejohn)
 # Rest-Countries-API-App
