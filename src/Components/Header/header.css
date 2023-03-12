@@ -4,6 +4,7 @@
     justify-content: space-between;
     align-items: center;
     height: 80px;
+    width: 100%;
     padding: 0 100px 0 60px;
     margin: 0;
     box-shadow: 0 3px 3px 0 hsl(0, 9%, 94%);
