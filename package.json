@@ -1,7 +1,7 @@
 {
+  "homepage": "https://teyejohn.github.io/RestCountriesApp",
   "name": "project4.0",
   "version": "0.1.0",
-  "homepage": "https://teyejohn.github.io/RestCountriesApp",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
