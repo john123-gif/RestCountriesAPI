@@ -14,7 +14,7 @@ export const FilterCountries = () => {
     }
     const { theme } = useContext(ThemeContext);
 
-    const options = ['Filter by Region', 'Africa', 'Americas', 'Asia', 'Europe', 'Oceania', 'New Continent'];
+    const options = ['Filter by Region', 'Africa', 'Americas', 'Asia', 'Europe', 'Oceania'];
 
     return (
             <select 
