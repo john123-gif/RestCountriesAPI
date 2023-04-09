@@ -10,7 +10,6 @@ import { ComponentStyle, AppStyle } from '../../AppThemes';
 import React from 'react';
 
 
-
 export const Countries = () => {
     const searchcountries = useAppSelector(selectSearchCountries);
     const searchfilteredCountries = useAppSelector(selectSearchedFilteredCountries);
