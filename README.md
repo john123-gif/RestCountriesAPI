@@ -37,7 +37,7 @@ I engineered this Rest countries API application using JavaScript, React and Red
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
+- [React](https://reactjs.org/) - JS framework
 - [Redux](https://redux.js.org/) - React framework
 
 ### What I learned
